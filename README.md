@@ -1,4 +1,4 @@
-# local-manifests
+# local_manifests
 ## How to setup and build ROM
 - ### Ubuntu:
 ### 1. Get Repo tool:
@@ -27,7 +27,7 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-23.0 --git-lfs
 ### 5. Download needed device manifest in this repository:
 - Choose needed device manifest and download raw file. After that put the downloaded manifest where you setup the Android ROM source there
 ```
-./android/.repo/local-manifests
+./android/.repo/local_manifests
 ```
 ### 6. Sync (Download) the Android ROM source:
 ```bash
