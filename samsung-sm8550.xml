@@ -4,20 +4,20 @@
     <remote name="cola2261" fetch="https://github.com/samsung-sm8550-cola2261/" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS/" />
 
-    <project name="android_device_samsung_dm1q" path="device/samsung/dm1q" remote="cola2261" revision="lineage-23.0"/>
-    <project name="android_device_samsung_dm2q" path="device/samsung/dm2q" remote="cola2261" revision="lineage-23.0"/>
-    <project name="android_device_samsung_dm3q" path="device/samsung/dm3q" remote="cola2261" revision="lineage-23.0"/>
-    <project name="android_device_samsung_sm8550-common" path="device/samsung/sm8550-common" remote="cola2261" revision="lineage-23.0"/>
+    <project name="android_device_samsung_dm1q" path="device/samsung/dm1q" remote="cola2261" revision="lineage-23.1"/>
+    <project name="android_device_samsung_dm2q" path="device/samsung/dm2q" remote="cola2261" revision="lineage-23.1"/>
+    <project name="android_device_samsung_dm3q" path="device/samsung/dm3q" remote="cola2261" revision="lineage-23.1"/>
+    <project name="android_device_samsung_sm8550-common" path="device/samsung/sm8550-common" remote="cola2261" revision="lineage-23.1"/>
 
     <project name="android_kernel_samsung_sm8550" path="kernel/samsung/sm8550" remote="cola2261" revision="lineage" clone-depth="1"/>
-    <project name="android_kernel_samsung_sm8550-devicetrees" path="kernel/samsung/sm8550-devicetrees" remote="cola2261" revision="lineage-23.0" clone-depth="1"/>
-    <project name="android_kernel_samsung_sm8550-modules" path="kernel/samsung/sm8550-modules" remote="cola2261" revision="lineage-23.0" clone-depth="1"/>
+    <project name="android_kernel_samsung_sm8550-devicetrees" path="kernel/samsung/sm8550-devicetrees" remote="cola2261" revision="lineage-23.1" clone-depth="1"/>
+    <project name="android_kernel_samsung_sm8550-modules" path="kernel/samsung/sm8550-modules" remote="cola2261" revision="lineage-23.1" clone-depth="1"/>
 
-    <project name="proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" remote="cola2261" revision="lineage-23.0" clone-depth="1"/>
-    <project name="proprietary_vendor_samsung_dm2q" path="vendor/samsung/dm2q" remote="cola2261" revision="lineage-23.0" clone-depth="1"/>
-    <project name="proprietary_vendor_samsung_dm3q" path="vendor/samsung/dm3q" remote="cola2261" revision="lineage-23.0" clone-depth="1"/>
-    <project name="proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" remote="cola2261" revision="lineage-23.0" clone-depth="1"/>
+    <project name="proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" remote="cola2261" revision="lineage-23.1" clone-depth="1"/>
+    <project name="proprietary_vendor_samsung_dm2q" path="vendor/samsung/dm2q" remote="cola2261" revision="lineage-23.1" clone-depth="1"/>
+    <project name="proprietary_vendor_samsung_dm3q" path="vendor/samsung/dm3q" remote="cola2261" revision="lineage-23.1" clone-depth="1"/>
+    <project name="proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" remote="cola2261" revision="lineage-23.1" clone-depth="1"/>
 
-    <project name="android_hardware_samsung" path="hardware/samsung" remote="LineageOS" revision="lineage-23.0"/>
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="LineageOS" revision="lineage-23.1"/>
 
 </manifest>
