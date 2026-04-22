@@ -9,7 +9,7 @@
     <project name="android_device_samsung_dm3q" path="device/samsung/dm3q" remote="cola2261" revision="lineage-23.2"/>
     <project name="android_device_samsung_sm8550-common" path="device/samsung/sm8550-common" remote="cola2261" revision="lineage-23.2"/>
 
-    <project name="android_kernel_samsung_sm8550" path="kernel/samsung/sm8550" remote="cola2261" revision="lineage" clone-depth="1"/>
+    <project name="android_kernel_samsung_sm8550" path="kernel/samsung/sm8550" remote="cola2261" revision="lineage-23.2" clone-depth="1"/>
     <project name="android_kernel_samsung_sm8550-devicetrees" path="kernel/samsung/sm8550-devicetrees" remote="cola2261" revision="lineage-23.2" clone-depth="1"/>
     <project name="android_kernel_samsung_sm8550-modules" path="kernel/samsung/sm8550-modules" remote="cola2261" revision="lineage-23.2" clone-depth="1"/>
 
